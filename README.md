@@ -1,6 +1,6 @@
 Hi, I'm Robin 👋
 
-I'm a Full-Stack Developer with 7+ years of experience building web and mobile applications for enterprise clients and product teams, including Toyota Motor Europe, the National Bank of Belgium, and Skeyes.
+I'm a Full-Stack Developer with 10+ years of experience building web and mobile applications for enterprise clients and product teams, including Toyota Motor Europe, the National Bank of Belgium, and Skeyes.
 
 I work across the stack with React, Next.js, Angular, Node.js, React Native, and Spring Boot, and I enjoy building reliable products, modern frontend experiences, and backend systems that integrate cleanly with real-world workflows. My background spans customer portals, mobile banking apps, SaaS platforms, CMS-driven websites, and data-heavy internal tools.
 
